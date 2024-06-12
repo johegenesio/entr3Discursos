@@ -1,4 +1,4 @@
-# ENTR3DISCURSOS📣
+# ENTR3DISCURSOS📣 (até dia 18/06)
 Blog com objetivo de transmitir poemas e conhecimentos, trazendo a visibilidade e a autenticidade de trabalhos escolares e conectando os alunos, absorvendo lembranças.
 
 ### Figma:
@@ -24,7 +24,7 @@ Blog com objetivo de transmitir poemas e conhecimentos, trazendo a visibilidade 
 - [ ] LGBTQIAP+BR
 - [ ] LGBTQIAP+INT
 - [ ] Anuário
-- [ ] Enviar poema + Poemas
+- [ ] Enviar poema + Poemas (Perugini)
 
 ### Frase:
 > A juventude é a época de se estudar a sabedoria; a velhice é a época de a praticar. (Jean-Jacques Rousseau)
