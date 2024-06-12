@@ -21,7 +21,7 @@ Blog com objetivo de transmitir poemas e conhecimentos, trazendo a visibilidade 
 - [ ] Home (Cauê)
 - [ ] Questões ENEM + Racismo 
 - [ ] Visibilidade feminina
-- [ ] LGBTQIAP+BR
+- [ ] LGBTQIAP+BR (Moreira)
 - [ ] LGBTQIAP+INT
 - [ ] Anuário
 - [ ] Enviar poema + Poemas (Perugini)
