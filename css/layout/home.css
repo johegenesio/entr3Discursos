@@ -1,0 +1,79 @@
+.oneRow{
+    margin-top: 5%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.txtSp{
+    color: var(--txt-color);
+    font-size: 50px;
+}
+
+.txtAuthor{
+    font-size: 30px;
+    text-align: right;
+
+}
+
+
+.imgWoman{
+    width: 28%;
+}
+
+.twoRow{
+    gap: 8vh;
+    width: 100%;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.secBtn{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title{
+    font-size: 64px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+h3{
+    font-size: 250px;
+}
+
+button{
+    width: 40%;
+    height: 35vh;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 8px 8px 10px 8px #00000026;
+
+    
+
+}
+
+.threeRow{
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.whoAre{
+    font-size: 30px;
+}
+
+.fourRow{
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
