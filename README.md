@@ -19,11 +19,11 @@ Blog com objetivo de transmitir poemas e conhecimentos, trazendo a visibilidade 
 ### Divisão:
 - [ ] Header e Footer (João)
 - [ ] Home (Cauê)
-- [ ] Questões ENEM + Racismo 
-- [ ] Visibilidade feminina
+- [ ] Questões ENEM + Racismo (Pedro)
+- [ ] Visibilidade feminina (André)
 - [ ] LGBTQIAP+BR (Moreira)
-- [ ] LGBTQIAP+INT
-- [ ] Anuário
+- [ ] LGBTQIAP+INT (Miguel)
+- [ ] Anuário (Diogo)
 - [ ] Enviar poema + Poemas (Perugini)
 
 ### Frase:
