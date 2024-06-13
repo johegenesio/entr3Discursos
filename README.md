@@ -26,6 +26,8 @@ Blog com objetivo de transmitir poemas e conhecimentos, trazendo a visibilidade 
 - [ ] Anuário (Diogo)
 - [ ] Enviar poema + Poemas (Perugini)
 
+Responsividade de cada página para todos.
+
 ### Frase:
 > A juventude é a época de se estudar a sabedoria; a velhice é a época de a praticar. (Jean-Jacques Rousseau)
 
