@@ -17,7 +17,7 @@ Blog com objetivo de transmitir poemas e conhecimentos, trazendo a visibilidade 
 - Pedro Henrique
 
 ### Divisão:
-- [ ] Header e Footer (João)
+- [X] Header e Footer (João)
 - [ ] Home (Cauê)
 - [ ] Questões ENEM + Racismo (Pedro)
 - [ ] Visibilidade feminina (André)
