@@ -23,7 +23,7 @@ Blog com objetivo de transmitir poemas e conhecimentos, trazendo a visibilidade 
 - [ ] Visibilidade feminina (André)
 - [ ] LGBTQIAP+BR (Moreira)
 - [ ] LGBTQIAP+INT (Miguel)
-- [ ] Anuário (Diogo)
+- [x] Anuário (Diogo)
 - [ ] Enviar poema + Poemas (Perugini)
 
 Responsividade de cada página para todos.
