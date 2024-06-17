@@ -13,7 +13,7 @@ Blog com objetivo de transmitir poemas e conhecimentos, trazendo a visibilidade 
 - [Diogo Eduardo](https://github.com/diogoeduardo06)
 - [Gabriel Perugini](https://github.com/Gabriel-Perugini)
 - [Matheus Moreira](https://github.com/MAT3U55)
-- [Miguel Henrique](https://github.com/kgados)
+- [Miguel Henrique](https://github.com/Migueldev4)
 - [Pedro Henrique](https://github.com/P3DR0H3NRIQU3)
 
 ### Divisão:
