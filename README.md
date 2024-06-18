@@ -24,7 +24,7 @@ Blog com objetivo de transmitir poemas e conhecimentos, trazendo a visibilidade 
 - [ ] LGBTQIAP+BR (Moreira)
 - [ ] LGBTQIAP+INT (Miguel)
 - [x] Anuário (Diogo)
-- [ ] Enviar poema + Poemas (Perugini)
+- [x] Enviar poema + Poemas (Perugini)
 
 Responsividade de cada página para todos.
 
