@@ -14,19 +14,27 @@
 
 <body>
     <header>
-        <h1>ENTR<span>3D</span>ISCURSOS</h1>
-        <nav>
-            <ul>
-                <li><a href="">Home</a></li>
-                <li><a href="">Vestibluar</a></li>
-                <li><a href="">Poemas</a></li>
-                <li><a href="">Quem somos?</a></li>
-            </ul>
-        </nav>
+        <div class="container-header">
+            <a class="title-a" href="../index.html">
+                <h1 class="oswald-regular title-header">ENTR<span class="span-color">3D</span>ISCURSOS</h1>
+            </a>
+            <nav class="large" id="menu">
+                <ul class="list-link">
+                    <li><a class="montserrat-regular link-nav" href="">Quem somos</a></li>
+                    <li><a class="montserrat-regular link-nav" href="">Vestibluar</a></li>
+                    <li><a class="montserrat-regular link-nav" href="poemas.html">Poemas</a></li>
+                    <li><a class="montserrat-regular link-nav" href="anuario.html">Anuário</a></li>
+                </ul>
+            </nav>
+            <nav class="small" onclick="clickMenu()">
+                <svg xmlns="http://www.w3.org/2000/svg" height="32px" viewBox="0 -960 960 960" width="32px"
+                    fill="#fefefe">
+                    <path
+                        d="M120-240v-66.67h720V-240H120Zm0-206.67v-66.66h720v66.66H120Zm0-206.66V-720h720v66.67H120Z" />
+                </svg>
+            </nav>
+        </div>
     </header>
-
-
-
     <main>
         <section class="sec1">
             <div id="column1">
@@ -44,7 +52,7 @@
                 </div>
             </div>
             <div id="column2">
-                <img class="img1" src="imgs/image 25.png" alt="Troca de Olhares são Poemas Calados">
+                <img class="img1" src="../imgs/image 25.png" alt="Troca de Olhares são Poemas Calados">
             </div>
         </section>
 
@@ -191,33 +199,38 @@
             </div>
         </section>
     </main>
-
-
-
     <footer>
-        <div>
-            <h4>ENTR<span>3D</span>ISCURSOS</h4>
-            <div>
-                <a href=""><img src="" alt=""></a>
-                <a href="">@piraterceirao</a>
-            </div>
-            <div>
-                <a href=""><img src="" alt=""></a>
-                <a href="">@piraterceirao</a>
+        <div class="div-footer">
+            <h1 class="oswald-regular title-footer-primary">ENTR<span class="span-color">3D</span>ISCURSOS</h1>
+            <div class="div-social">
+                <a class="montserrat-regular a-footer social-footer" href="https://www.instagram.com/piraterceirao/"
+                    target="_blank">
+                    <img src="../imgs/Instagram Circle.png" alt="" width="48px">
+                    <p>@piraterceirao</p>
+                </a>
+                <a class="montserrat-regular a-footer social-footer"
+                    href="https://www.tiktok.com/@piraterceirao?is_from_webapp=1&sender_device=pc" target="_blank">
+                    <img src="../imgs/TikTok.png" alt="" width="48px">
+                    <p>@piraterceirao</p>
+                </a>
             </div>
         </div>
-        <div>
-            <h4>Telas</h4>
-            <ul>
-                <li><a href="">Home</a></li>
-                <li><a href="">Vestibluar</a></li>
-                <li><a href="">Poemas</a></li>
-                <li><a href="">Quem somos?</a></li>
+        <div class="div-footer">
+            <h4 class="oswald-regular title-footer">Telas</h4>
+            <ul class="center-footer">
+                <li><a class="montserrat-regular a-footer" href="">Quem somos</a></li>
+                <li><a class="montserrat-regular a-footer" href="">Vestibluar</a></li>
+                <li><a class="montserrat-regular a-footer" href="">Poemas</a></li>
+                <li><a class="montserrat-regular a-footer" href="">Anuário</a></li>
             </ul>
         </div>
-        <div>
-            <h4>Email:</h4>
-            <a href="mailto:joao.genesio@portalsesisp.org.br">joao.genesio@portalsesisp.org.br</a>
+        <div class="div-footer">
+            <h4 class="oswald-regular title-footer">Contato</h4>
+            <div class="center-footer">
+                <p class="montserrat-regular email">Email</p>
+                <a class="montserrat-regular a-footer"
+                    href="mailto:joao.genesio@portalsesisp.org.br">joao.genesio@portalsesisp.org.br</a>
+            </div>
         </div>
     </footer>
 </body>
