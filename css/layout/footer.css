@@ -1,10 +1,10 @@
 footer {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 
     color: var(--bg-color);
 
-    padding: 24px 120px;
+    padding: 24px 24px;
 
     background-color: var(--cor-primary);
 }
