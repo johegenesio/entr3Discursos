@@ -40,6 +40,7 @@ main.main-enem{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 .cont-text2-3{
     display: flex;
@@ -59,7 +60,7 @@ main.main-enem{
 .cont-text5-6{
     display: flex;
     flex-direction: row;
-   
+    justify-content: center;
 }
 ul.ul-enem{
     list-style: inside;
