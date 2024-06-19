@@ -17,7 +17,6 @@
 
 }
 
-
 .imgWoman{
     width: 28%;
 }
@@ -101,5 +100,4 @@ button{
     display: flex;
     justify-content: space-around;
     background: linear-gradient(270deg, #001A1C7D 20%, transparent 30%);
-
 }
