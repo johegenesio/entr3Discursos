@@ -56,6 +56,7 @@ main.main-enem{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 .cont-text5-6{
     display: flex;
