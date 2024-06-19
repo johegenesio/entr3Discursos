@@ -1,4 +1,5 @@
-.oneRow{
+/* Estilos existentes */
+.oneRow {
     margin-top: 5%;
     width: 100%;
     display: flex;
@@ -6,80 +7,60 @@
     align-items: center;
 }
 
-.txtSp{
+.txtSp {
     color: var(--txt-color);
     font-size: 50px;
 }
 
-.txtAuthor{
+.txtAuthor {
     font-size: 30px;
     text-align: right;
-
 }
 
-.imgWoman{
+.imgWoman {
     width: 28%;
 }
 
-.twoRow{
+.twoRow {
     gap: 8vh;
     width: 100%;
     margin-top: 10%;
     display: flex;
     flex-direction: column;
-
 }
 
-.secBtn{
+.secBtn {
     width: 100%;
     display: flex;
     justify-content: space-evenly;
 }
 
-.title{
+.title {
     font-size: 64px;
     margin-left: 5%;
     margin-top: 5%;
 }
 
-h3{
+h3 {
     font-size: 250px;
 }
 
-button{
-    width: 40%;
-    height: 35vh;
-    border-radius: 30px;
-    border: none;
-    box-shadow: 8px 8px 10px 8px #00000026;
-    display: flex;
-    justify-content: space-around;
-    background: linear-gradient(270deg, #001A1C7D 20%, transparent 30%);
-
-}
-
-.threeRow{
+.threeRow {
     margin-top: 8%;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    
 }
 
-.whoAre{
+.whoAre {
     font-size: 30px;
 }
 
-.fourRow{
+.fourRow {
     margin-bottom: 8%;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    
-}
-
-button:hover{
-    animation: expand 2s;
 }
 
 @keyframes expand {
@@ -91,13 +72,225 @@ button:hover{
     }
 }
 
-button{
+.test {
     width: 40%;
-    height: 35vh;
+    height: 200px;
     border-radius: 30px;
     border: none;
     box-shadow: 8px 8px 10px 8px #00000026;
     display: flex;
-    justify-content: space-around;
-    background: linear-gradient(270deg, #001A1C7D 20%, transparent 30%);
+    justify-content: right;
+    overflow: hidden;
+    color: inherit;
+}
+
+.elipse {
+    width: 30%;
+    height: 100%;
+    background-color: #001A1C40;
+    border-radius: 200px 30px 30px 200px;
+}
+
+.test:hover .elipse {
+    animation: expande 0.5s forwards;
+}
+
+@keyframes expande {
+    from {
+        width: 30%;
+    }
+    to {
+        width: 100%;
+        border-radius: 30px;
+    }
+}
+
+.areaA {
+    position: absolute;
+    margin-right: 18%;
+    margin-top: 1%;
+}
+
+.areaB {
+    position: absolute;
+    width: 200px;
+    height: 180px;
+    margin-right: 15%;
+    margin-top: 30px;
+}
+
+/* Media queries para responsividade */
+@media (max-width: 1200px) {
+    .txtSp {
+        font-size: 40px;
+    }
+
+    .txtAuthor {
+        font-size: 24px;
+    }
+
+    .title {
+        font-size: 48px;
+    }
+
+    h3 {
+        font-size: 200px;
+    }
+
+    .test {
+        height: 200px;
+    }
+
+    .areaB{
+        margin-top: 50px;
+        width: 150px;
+        height: 130px;
+    }
+
+    .areaA{
+        margin-left: 100px;
+    }
+}
+
+@media (max-width: 992px) {
+    .oneRow {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .imgWoman {
+        width: 40%;
+    }
+
+    .txtSp {
+        font-size: 36px;
+        text-align: center;
+    }
+
+    .txtAuthor {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .secBtn {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .test {
+        width: 80%;
+        height: 250px;
+        margin-left: 10%;
+    }
+
+    .areaA {
+        position: absolute;
+        margin-right: 30%;
+        margin-top: 1%;
+    }
+    
+    .areaB {
+        position: absolute;
+        width: 200px;
+        height: 180px;
+        margin-right: 30%;
+        margin-top: 50px;
+    }
+    
+    .twoRow {
+        gap: 4vh;
+    }
+}
+
+@media (max-width: 768px) {
+    .txtSp {
+        font-size: 32px;
+    }
+
+    .txtAuthor {
+        font-size: 20px;
+    }
+
+    .title {
+        font-size: 36px;
+        text-align: center;
+        margin-left: 0;
+    }
+
+    .imgWoman {
+        width: 50%;
+    }
+
+    .secBtn {
+        gap: 20px;
+    }
+
+    .test {
+        width: 80%;
+        height: 200px;
+        margin-left: 10%;
+    }
+
+    
+
+    .threeRow{
+        flex-direction: column;
+        margin-top: 10%;
+        gap: 80px;
+    }
+
+    .fourRow{
+        flex-direction: column;
+        gap: 30px;
+    }
+
+
+    .whoAre {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .areaB{
+        margin-top: 50px;
+        width: 150px;
+        height: 130px;
+    }
+
+}
+
+@media (max-width: 576px) {
+    .txtSp {
+        font-size: 28px;
+    }
+
+    .txtAuthor {
+        font-size: 18px;
+    }
+
+    .title {
+        font-size: 28px;
+    }
+
+    .imgWoman {
+        width: 80%;
+    }
+
+
+    .whoAre {
+        font-size: 20px;
+        padding: 16px;
+    }
+
+    .fourRow{
+        margin-top: 10%;
+        flex-direction: column-reverse;
+        gap: 30px;
+    }
+
+    .areaB{
+        margin-top: 50px;
+        width: 150px;
+        height: 130px;
+    }
+
 }
