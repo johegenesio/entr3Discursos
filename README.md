@@ -18,7 +18,7 @@ Blog com objetivo de transmitir poemas e conhecimentos, trazendo a visibilidade 
 
 ### Divisão:
 - [x] Header e Footer (João)
-- [ ] Home (Cauê)
+- [x] Home (Cauê)
 - [ ] Questões ENEM + Racismo (Pedro)
 - [ ] Visibilidade feminina (André)
 - [ ] LGBTQIAP+BR (Moreira)
