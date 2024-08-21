@@ -12,6 +12,13 @@
     font-size: 50px;
 }
 
+.txtSp1 {
+    color: var(--txt-color);
+    font-size: 64px;
+    margin-top: 6%;
+    margin-left: 5%;
+}
+
 .txtAuthor {
     font-size: 30px;
     text-align: right;
@@ -24,7 +31,7 @@
 .twoRow {
     gap: 8vh;
     width: 100%;
-    margin-top: 10%;
+    margin-top: 4%;
     display: flex;
     flex-direction: column;
 }
@@ -109,6 +116,12 @@ h3 {
     position: absolute;
     margin-right: 14%;
     margin-top: 1%;
+}
+
+.areaA1 {
+    position: absolute;
+    margin-right: 11%;
+    margin-top: 4%;
 }
 
 .areaB {
