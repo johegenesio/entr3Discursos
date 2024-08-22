@@ -1,0 +1,24 @@
+#geral{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between; 
+    padding: 20px;
+}
+
+#capa {
+    background-color: rgb(185, 57, 121);
+    display: flex;
+    justify-content: center;
+    height: 480px;
+    width: 30%;
+    
+}
+
+#textos{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 450px;
+    width: 65%;
+}
