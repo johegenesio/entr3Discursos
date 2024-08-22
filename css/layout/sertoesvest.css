@@ -1,0 +1,69 @@
+#sertoes-main {
+    width: 80%;
+    margin: 80px auto;
+}
+
+.h1 {
+    font-size: 48px;
+    margin-bottom: 32px;
+}
+
+.h2 {
+    font-size: 28px;
+    margin: 24px 0 16px 0;
+}
+
+.h3 {
+    margin: 16px 0 8px 0; 
+}
+
+.font {
+    line-height: 20px;
+}
+
+.list-ul {
+    list-style: circle;
+    list-style-position: inside;
+}
+
+.list-ol {
+    list-style: decimal;
+    list-style-position: inside;
+}
+
+.container-sertoes {
+    display: flex;  
+    gap: 24px;
+}
+
+.container-obra {
+    width: 55%;
+}
+
+.container-capa {
+    width: 45%;
+    display: flex;
+}
+
+.container-capa > img {
+    height: 160px;
+    border-radius: 16px;
+}
+
+.divResposta {
+    display: none;
+    margin-top: 32px;
+}
+
+.aResposta {
+    margin-top: 32px;
+    padding: 8px 16px;
+    background-color: var(--cor-secondary);
+    text-decoration: none;
+    color: #fff;
+    border-radius: 16px;
+}
+
+.card-vest:nth-child(6) {
+    margin-bottom: 48px;
+}
