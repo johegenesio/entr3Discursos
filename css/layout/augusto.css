@@ -1,0 +1,52 @@
+.biografia{
+    margin-top: 5%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.txtBio{
+    font-size: 20px;
+    margin-left: 5%;
+}
+
+.imgAug{
+    width: 40%;
+}
+
+.title {
+    font-size: 56px;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.obras{
+    width: 100%;
+    margin-top: 4%;
+}
+
+.title {
+    font-size: 56px;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+
+.subtitle {
+    font-size: 40px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.questoes{
+    width: 100%;
+    margin-top: 4%;
+}
+
+
+.questionTxt{
+    font-size: 24px;
+    margin-left: 5%;
+    margin-top: 2%;
+}
