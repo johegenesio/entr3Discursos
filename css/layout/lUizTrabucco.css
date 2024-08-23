@@ -1,0 +1,121 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    align-items: center ;
+  }
+  
+  main {
+    max-width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    gap: 30px;
+    
+  }
+
+  .titulo-Trabucco{
+    width: 100%;
+    font-size: 40px;
+    justify-content: center;
+    display: flex;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+  }
+
+  .Contexto-historico{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+  }
+  .titulo-descricao{
+    width: 50%;
+    height: 80%;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  #titulo{
+    font-size:25px;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  #descricao{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size:23px
+  }
+
+  #subtexto{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size:23px;
+    text-align: center;
+  }
+
+  .Contexto-LimaBarreto{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .Contexto-LimaBarreto, #titulo{
+    font-size: 30px;
+  }
+
+  .titulo-descricao-LimaBarreto{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .Contexto-LimaBarreto, #descricao{
+    font-size: 20px;
+  }
+  hr{
+    background-color: black;
+  }
+  p{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size:20px;
+  }
+
+  .titulo-quaresma{
+    font-size: 36px;
+    font-weight: 600;
+  }
+
+  #descricao_quaresma{
+    font-size: 22.4px;
+  }
+
+  #quarema-trabuco{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size:20px;
+    text-align: center;
+  }
+
+  #p-tupi{
+    text-align: center;
+  }
+
+  #conclusao{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+  }
