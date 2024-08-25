@@ -1,0 +1,40 @@
+.autor {
+    margin-top: 50px;
+    margin-bottom: 55px;
+    text-align: center;
+}
+
+.autor img.autor-img {
+    width: 250px;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.autor p {
+    font-size: 1.2em;
+}
+
+
+.livro h2 {
+    color: #333;
+    margin-top: 20px;
+}
+
+.livro img.livro-img {
+    width: 250px;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+}
+
+.livro p, .content ul {
+    margin-bottom: 20px;
+}
+
+.livro ul {
+    padding-left: 20px;
+}
+
+.livro ul li {
+    margin-bottom: 40px;
+}

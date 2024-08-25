@@ -2,23 +2,74 @@
     background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-between; 
-    padding: 20px;
+    padding: 20px 0;
 }
 
 #capa {
-    background-color: rgb(185, 57, 121);
-    display: flex;
-    justify-content: center;
-    height: 480px;
-    width: 30%;
-    
-}
-
-#textos{
     background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 450px;
+    height: 480px;
+    width: 30%;   
+}
+
+#sobreObra{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     width: 65%;
+}
+
+#geral2{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px 0;
+}
+
+#geral3{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+
+#foto {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#sobreAutor{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    padding: 24px;
+}
+
+#geral4{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+#questao1e2 {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#questao3e4{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
