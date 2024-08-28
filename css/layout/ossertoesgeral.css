@@ -173,10 +173,9 @@
 }
 
 /* Responsividade */
-
 @media(max-width: 820px){
 
-    /* Temas da Obra */
+    /* Section temas da Obra */
     .organizacaoDivisoesEdC{
         height: 100%;
         width: 100%;
@@ -240,4 +239,39 @@
     }
     
 }
+
+@media(max-width:390px){
+
+    /*Section Obra*/
+    #ObraEdC {
+        height: 600px;
+    }
+
+    /* Section temas da obra */
+    #divisoesObraEdC {
+        height: 1350px;
+        background:  var(--cor-primary);
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .temasObraEdC{
+        width: 300px;
+        height: 350px;
+        box-shadow: 0 0px 6px gray;
+        border-radius: 12px;
+        flex-direction: column;
+        position: relative;
+        z-index: 2;
+        background-color: white;
+        display: flex;
+    }
+
+   /* Section sobre o autor */
+    #autorEdC{
+        height: 950px;
+    }
+}
+
 
