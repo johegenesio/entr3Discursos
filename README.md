@@ -1,4 +1,4 @@
-# ENTR3DISCURSOS📣 (até dia 18/06)
+# ENTR3DISCURSOS📣
 Blog com objetivo de transmitir poemas e conhecimentos, trazendo a visibilidade e a autenticidade de trabalhos escolares e conectando os alunos, absorvendo lembranças.
 
 ### Figma:
@@ -19,10 +19,10 @@ Blog com objetivo de transmitir poemas e conhecimentos, trazendo a visibilidade 
 ### Divisão:
 - [x] Header e Footer (João)
 - [x] Home (Cauê)
-- [ ] Questões ENEM + Racismo (Pedro)
-- [ ] Visibilidade feminina (André)
-- [ ] LGBTQIAP+BR (Moreira)
-- [ ] LGBTQIAP+INT (Miguel)
+- [x] Questões ENEM + Racismo (Pedro)
+- [x] Visibilidade feminina (André)
+- [x] LGBTQIAP+BR (Moreira)
+- [x] LGBTQIAP+INT (Miguel)
 - [x] Anuário (Diogo)
 - [x] Enviar poema + Poemas (Perugini)
 
@@ -35,3 +35,7 @@ Responsividade de cada página para todos.
 
 > [!NOTE]
 > Não pode compartilhar, todos os direitos são reservados.
+
+<div>
+  <img width="100%" height="100" alt="Image" src="https://github.com/user-attachments/assets/1ab62063-712b-4536-b202-9ae08c52c81e" />
+</div>
