@@ -1,4 +1,4 @@
-# Entr3Discursos📣
+# Entr3Discursos 📣
 Blog com objetivo de transmitir poemas e conhecimentos, trazendo a visibilidade e a autenticidade de trabalhos escolares e conectando os alunos, absorvendo lembranças.
 
 ### Figma:
